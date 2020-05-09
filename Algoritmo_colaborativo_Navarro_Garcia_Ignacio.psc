@@ -10,7 +10,7 @@ Algoritmo promedio
 	FinMientras
 	acum<-0
 	
-	Para i<-1 Hasta n+2 Hacer
+	Para i<-1 Hasta n Hacer
 		Escribir "Ingrese el dato ",i,":"
 		leer dato
 		acum<-acum+dato
